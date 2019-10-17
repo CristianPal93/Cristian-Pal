@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Seat Ibiza Center</string>
+    <string name="menu_insert_widget_label">Add Widget</string>
+    <string name="group_search">Search</string>
+
+    <string name="menu_remove_widget_label">Remove Widget</string>
+    <string name="no_widgets_popup">Add widgets first</string>
+    <string name="widget_removed_popup">The widget was removed!</string>
+    <string name="textview">TextView</string>
+    <string name="ok">Ok</string>
+
+
+</resources>
